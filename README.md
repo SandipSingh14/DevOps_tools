@@ -134,13 +134,13 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 
 [Unix]:http://en.wikipedia.org/wiki/Unix
 [more.]:http://en.wikipedia.org/wiki/Unix
-[devops.png]:/images/devops.png
+[devops.png]:/images/devops.png 
 [Jenkins]:http://jenkins-ci.org/
 [more..]:https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins
-[jenkins]:/home/sandip/DevOps_tools/images/jenkins.png
+[jenkins]:/images/jenkins.png
 [More.]:http://en.wikipedia.org/wiki/DevOps
 [AWS]:http://en.wikipedia.org/wiki/Amazon_Web_Services
-[aws]:/home/sandip/DevOps_tools/images/aws.jpg
+[aws]:/images/aws.jpg
 [Amazon EC2]:http://aws.amazon.com/ec2/
 [Amazon EC2 Container Service]:http://aws.amazon.com/ecs/
 [AWS Lambda]:http://aws.amazon.com/lambda/
@@ -162,12 +162,12 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 [AWS CloudFormation]:http://aws.amazon.com/cloudformation/
 [more....]:http://aws.amazon.com/products/
 [Git and GitHub]:http://en.wikipedia.org/wiki/Git_(software)
-[git]:/home/sandip/DevOps_tools/images/git.png
+[git]:/images/git.png
 [Chef]:https://docs.chef.io/
 [Chef-client]:http://docs.chef.io/client/
 [Workstation]:https://docs.chef.io/workstation.html
 [Chef-server]:https://docs.chef.io/chef_server.html
-[chef]:/home/sandip/DevOps_tools/images/chef.jpg
+[chef]:/images/chef.jpg
 [Knife]:https://docs.chef.io/knife.html
 [Berkshelf]:http://berkshelf.com/index.html
 [Kitchen]:https://github.com/test-kitchen/test-kitchen
@@ -179,19 +179,19 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 [PuppetDB]:https://docs.puppetlabs.com/puppetdb/latest/
 [Hiera]:https://docs.puppetlabs.com/hiera/1/
 [Facter]:https://docs.puppetlabs.com/facter/latest/
-[puppet]:/home/sandip/DevOps_tools/images/puppet.jpg
+[puppet]:/images/puppet.jpg
 [Ansible]:http://www.ansible.com/
-[ansible]:/home/sandip/DevOps_tools/images/ansible.jpg
+[ansible]:/images/ansible.jpg
 [Vagrant]:https://www.vagrantup.com/
-[vagrant]:/home/sandip/DevOps_tools/images/vagrant.jpg
+[vagrant]:/images/vagrant.jpg
 [Docker]:https://www.docker.com/
-[docker]:/home/sandip/DevOps_tools/images/docker.jpg
+[docker]:/images/docker.jpg
 [Nagios]:http://www.nagios.org/
-[nagios]:/home/sandip/DevOps_tools/images/nagios.jpg
+[nagios]:/images/nagios.jpg
 [Newrelic]:http://newrelic.com/
-[newrelic]:/home/sandip/DevOps_tools/images/newrelic.png
+[newrelic]:/images/newrelic.png
 [Datadog]:https://www.datadoghq.com/
-[datadog]:/home/sandip/DevOps_tools/images/datadog.png
+[datadog]:/images/datadog.png
 
 
 
