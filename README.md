@@ -134,7 +134,7 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 
 [Unix]:http://en.wikipedia.org/wiki/Unix
 [more.]:http://en.wikipedia.org/wiki/Unix
-[devops.png](/home/sandip/DevOps_tools/images/devops.png)
+[devops.png]:(/home/sandip/DevOps_tools/images/devops.png)
 [Jenkins]:http://jenkins-ci.org/
 [more..]:https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins
 [jenkins]:/home/sandip/DevOps_tools/images/jenkins.png
