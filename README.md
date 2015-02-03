@@ -3,7 +3,7 @@
 
 Goal
 =======
-To get familier with DevOps, tools and Technologies, Focus Areas;
+To get familiar with DevOps, tools and Technologies, Focus Areas;
 
 # DevOps
 DevOps refers to understand whole software development cycle and collaboration between development, testing & operations, more focused on delivering.
@@ -11,12 +11,12 @@ DevOps refers to understand whole software development cycle and collaboration b
 
 ![devops.png]
 
-# Details on Tools and Techonologies
+# Details on Tools and Technologies
 
 [Ubuntu] : [Ubuntu] is the base OS on which other tools will run. 
 * Topics to cover in [Ubuntu];
-    * [Web Servers] : A software programe responsible for accepting web requests as HTTP from clients are known as web browsers and serving the requests as HTTP responses with requested data.
-    * [File Servers] : A computer responsible for storing documents such as files, photographs, movies, images, databases, etc. attached to a network that has tobe providing a shared location for storing things.
+    * [Web Servers] : A software program responsible for accepting web requests as HTTP from clients are known as web browsers and serving the requests as HTTP responses with requested data.
+    * [File Servers] : A computer responsible for storing documents such as files, photographs, movies, images, databases, etc. attached to a network that has to be providing a shared location for storing things.
     * [Mail Server] : An application server that install and configure to sends/recives emails from email clients or mail server.
     * [Domain Name Service (DNS)] : Domain Name Service is a service which maps IP addresses to domain name which can be easily memorized by humans. 
 
