@@ -6,15 +6,23 @@ Goal
 To get familier with DevOps, tools and Technologies, Focus Areas;
 
 # DevOps
-DevOps (a portmanteau of "development" and "operations") is a software development method that stresses communication, collaboration, integration, automation and measurement between software developers and Information Technology professionals. DevOps is a response to the interdependence of software development and IT operations. It aims to help an organization rapidly produce software products and services and to improve operations performance, quality assurance. [More.]
+DevOps refers to understand whole software development cycle and collaboration between development, testing & operations, more focused on delivering.
+[More.]
 
 ![devops.png]
 
 # Details on Tools and Techonologies
 
-[Unix] : Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, developed in the 1970s at the Bell Labs research center. [more.]
+[Ubuntu] : [Ubuntu] is the base OS on which other tools will run. 
+* Topics to cover in [Ubuntu];
+    * [Web Servers] : A software programe responsible for accepting web requests as HTTP from clients are known as web browsers and serving the requests as HTTP responses with requested data.
+    * [File Servers] : A computer responsible for storing documents such as files, photographs, movies, images, databases, etc. attached to a network that has tobe providing a shared location for storing things.
+    * [Mail Server] : An application server that install and configure to sends/recives emails from email clients or mail server.
+    * [Domain Name Service (DNS)] : Domain Name Service is a service which maps IP addresses to domain name which can be easily memorized by humans. 
 
-[AWS] : Amazon Web Services began offering IT infrastructure services to businesses in the form of web services -now commonly known as cloud computing. One of the key benefits of cloud computing is the opportunity to replace up-front capital infrastructure expenses with low variable costs that scale with your business. With the Cloud, businesses no longer need to plan for and procure servers and other IT infrastructure weeks or months in advance. Instead, they can instantly spin up hundreds or thousands of servers in minutes and deliver results faster.
+
+
+[AWS] : Amazon Web Services basically cloud computing is opportunity to replace up-front capital infrastructure expenses with low variable costs that scale with your business. With aws, you don't need to plans your infrastructure in advance, so they will be spin up in minutes and deliver results faster. 
 
 ![aws]
 
@@ -132,8 +140,11 @@ To achieve its magic, Vagrant stands on the shoulders of giants. Machines are pr
 
 ![datadog]
 
-[Unix]:http://en.wikipedia.org/wiki/Unix
-[more.]:http://en.wikipedia.org/wiki/Unix
+[Ubuntu]:http://www.ubuntu.com/
+[Web Servers]:https://help.ubuntu.com/12.04/serverguide/web-servers.html
+[File Servers]:https://help.ubuntu.com/12.04/serverguide/file-servers.html
+[Mail Server]:https://help.ubuntu.com/12.04/serverguide/email-services.html
+[Domain Name Service (DNS)]:https://help.ubuntu.com/12.04/serverguide/dns.html
 [devops.png]:/images/devops.png 
 [Jenkins]:http://jenkins-ci.org/
 [more..]:https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins
